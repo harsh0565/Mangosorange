@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mangosorange/static/css/main.0ec3ef0c.css",
+    "main.js": "/Mangosorange/static/js/main.29949b7a.js",
+    "static/js/453.c5ea7875.chunk.js": "/Mangosorange/static/js/453.c5ea7875.chunk.js",
+    "static/media/Vaishnodevi.png": "/Mangosorange/static/media/Vaishnodevi.b9546638b1ea0f9ce4fe.png",
+    "static/media/Kashi.jpg": "/Mangosorange/static/media/Kashi.8e171f3d21d245d4428a.jpg",
+    "static/media/Adiyogi.jpg": "/Mangosorange/static/media/Adiyogi.4fe5f849e56fd083b8b7.jpg",
+    "static/media/Kedarnath.jpg": "/Mangosorange/static/media/Kedarnath.19c31d09c881d8a5f9ba.jpg",
+    "static/media/Ram_Janmbhoomi.jpg": "/Mangosorange/static/media/Ram_Janmbhoomi.fd5d876342fbd971ad92.jpg",
+    "static/media/Rameshwaram.jpg": "/Mangosorange/static/media/Rameshwaram.a0a294f642db56d5aeeb.jpg",
+    "static/media/PremMandir.webp": "/Mangosorange/static/media/PremMandir.ddd9937c6aba42e7ce03.webp",
+    "static/media/badrinath-dham1.jpg": "/Mangosorange/static/media/badrinath-dham1.3b7cee9ea6a57431718a.jpg",
+    "index.html": "/Mangosorange/index.html",
+    "main.0ec3ef0c.css.map": "/Mangosorange/static/css/main.0ec3ef0c.css.map",
+    "main.29949b7a.js.map": "/Mangosorange/static/js/main.29949b7a.js.map",
+    "453.c5ea7875.chunk.js.map": "/Mangosorange/static/js/453.c5ea7875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec3ef0c.css",
+    "static/js/main.29949b7a.js"
+  ]
+}
